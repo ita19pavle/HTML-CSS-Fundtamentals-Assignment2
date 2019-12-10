@@ -1,6 +1,7 @@
 
 body {
     width: 800px;
+    background: indianred;
 }
 h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -21,6 +22,7 @@ p {
 table {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 15px;
+    border-color: indigo;
 }
 section {
     padding: 0 0 0 10px;
@@ -41,6 +43,17 @@ aside {
 }
 a {
     margin-right: 7px;
+}
+footer {
+    clear: left;
+    clear: right;
+    margin: 10px 10px 10px 10px;
+    border-top: 1px solid black;
+}
+header {
+    border-bottom: 1px solid black;
+    margin: 10px 10px 10px 10px;
+    
 }
 
 
