@@ -1,0 +1,46 @@
+
+body {
+    width: 800px;
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+}
+h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 21px;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+}
+table {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+}
+section {
+    padding: 0 0 0 10px;
+    border-left: 1px solid black;
+    box-sizing: border-box;
+    float: right;
+    display: inline-block;
+    width: 600px;
+}
+aside {
+    padding: 0 10px 0 5px;
+    
+    box-sizing: border-box;
+    float: left;
+    display: inline-block;
+    width: 200px;
+    
+}
+a {
+    margin-right: 7px;
+}
+
+
